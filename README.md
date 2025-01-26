@@ -75,7 +75,7 @@ python BerkutSecureExchange.py
 
 Если у вас есть вопросы или предложения, вы можете связаться с автором:
 
-- Telegram: [link](https://t.me/berkutmraz)
+- Telegram: [link](https://t.me/berkutcommunity)
 - Email: [link](mailto:berkutosint@proton.me)
 
 ## Лицензия
